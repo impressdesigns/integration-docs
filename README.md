@@ -1,2 +1,3 @@
 # integration-docs
-Public documentation for integration with our services
+
+Our public documentation site
